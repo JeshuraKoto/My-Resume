@@ -1,0 +1,85 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+header {
+    background-color: #001f3f;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+#name {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#designation {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.contact .email, .contact .phone, .contact .location {
+    font-size: 1em;
+    margin-top: 5px;
+    color: #f8f8f8;
+}
+
+.content {
+    padding: 20px;
+}
+
+.title {
+    color: #001f3f;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #001f3f;
+    padding-bottom: 5px;
+}
+
+.description p {
+    line-height: 1.6;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+th {
+    background-color: #001f3f;
+    color: #fff;
+    text-align: left;
+}
+
+td {
+    background-color: #f8f8f8;
+}
+
+.project {
+    margin-top: 20px;
+}
+
+.project .date {
+    color: #555;
+    font-style: italic;
+}
