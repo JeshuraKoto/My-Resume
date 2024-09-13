@@ -30,7 +30,7 @@ header {
 #designation {
     font-size: 1.5em;
     margin-top: 10px;
-    color: #000000; 
+    color: #ffffff; 
 }
 
 #designation .title {
@@ -52,7 +52,7 @@ header {
 }
 
 .title {
-    color: #001f3f;
+    color: #000000;
     font-size: 1.5em;
     margin-bottom: 10px;
     border-bottom: 2px solid #001f3f;
