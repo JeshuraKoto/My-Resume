@@ -28,9 +28,12 @@ header {
 }
 
 #designation {
+    background-color: #003366; /* Darker background for contrast */
+    color: #ffffff; /* Text color to ensure visibility */
+    padding: 10px;
+    border-radius: 5px;
     font-size: 1.5em;
     margin-top: 10px;
-    color: #ffffff; 
 }
 
 #designation .title {
@@ -52,7 +55,7 @@ header {
 }
 
 .title {
-    color: #000000;
+    color: #001f3f;
     font-size: 1.5em;
     margin-bottom: 10px;
     border-bottom: 2px solid #001f3f;
