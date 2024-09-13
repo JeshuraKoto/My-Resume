@@ -30,7 +30,7 @@ header {
 #designation {
     font-size: 1.5em;
     margin-top: 10px;
-    color: #ffffff; /* Ensure visibility of text */
+    color: #000000; 
 }
 
 #designation .title {
