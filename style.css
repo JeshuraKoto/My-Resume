@@ -28,14 +28,23 @@ header {
 }
 
 #designation {
-    font-size: 1.2em;
+    font-size: 1.5em;
     margin-top: 10px;
+    color: #ffffff; /* Ensure visibility of text */
 }
 
-.contact .email, .contact .phone, .contact .location {
-    font-size: 1em;
-    margin-top: 5px;
+#designation .title {
+    font-weight: bold;
+}
+
+.contact {
+    margin-top: 10px;
     color: #f8f8f8;
+}
+
+.contact .email a {
+    color: #f8f8f8;
+    text-decoration: none;
 }
 
 .content {
@@ -43,7 +52,7 @@ header {
 }
 
 .title {
-    color: #ffffff;
+    color: #001f3f;
     font-size: 1.5em;
     margin-bottom: 10px;
     border-bottom: 2px solid #001f3f;
