@@ -28,8 +28,8 @@ header {
 }
 
 #designation {
-    background-color: #003366; /* Darker background for contrast */
-    color: #ffffff; /* Text color to ensure visibility */
+    background-color: #003366; 
+    color: #ffffff; 
     padding: 10px;
     border-radius: 5px;
     font-size: 1.5em;
